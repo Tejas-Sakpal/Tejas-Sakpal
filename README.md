@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejas Sakpal</h1>
 <h3 align="center">A passionate Data Engineer from Pune, India</h3>
 
+- ⚡ About Me **I'm a Data Engineer at @Advarisk**
+
 - 📫 How to reach me **sakpaltejas.666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
