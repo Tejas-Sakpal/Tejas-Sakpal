@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Sakpal</h1>
 <h3 align="center">Data Engineer</h3>
 
-- **I'm a Data Engineer at @Advarisk**
+- **I'm currently working as a Data Engineer at a startup company.**
 - **Pursuing Master's in Computer Science**
 
 - 📫 How to reach me **sakpaltejas.666@gmail.com**
