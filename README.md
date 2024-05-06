@@ -2,6 +2,7 @@
 <h3 align="center">Data Engineer</h3>
 
 - **I'm a Data Engineer at @Advarisk**
+- **Pursuing Master's in Computer Science**
 
 - 📫 How to reach me **sakpaltejas.666@gmail.com**
 
