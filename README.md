@@ -3,9 +3,9 @@
 <p align="center">I design, build and tune data pipelines that turn raw data into trusted, analytics-ready tables,<br>from ingestion and modeling to data quality and Spark performance.</p>
 
 <p align="center">
-  <a href="https://tejas-sakpal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tejas--sakpal.vercel.app-2563EB?style=for-the-badge" alt="Portfolio: tejas-sakpal.vercel.app"></a>
-  <a href="https://www.linkedin.com/in/tejas-sakpal/"><img src="https://img.shields.io/badge/LinkedIn-tejas--sakpal-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: tejas-sakpal"></a>
-  <a href="mailto:sakpaltejas.666@gmail.com"><img src="https://img.shields.io/badge/Email-sakpaltejas.666%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: sakpaltejas.666@gmail.com"></a>
+  <b><a href="https://tejas-sakpal.vercel.app">Portfolio</a></b> &nbsp;·&nbsp;
+  <b><a href="https://www.linkedin.com/in/tejas-sakpal/">LinkedIn</a></b> &nbsp;·&nbsp;
+  <b><a href="mailto:sakpaltejas.666@gmail.com">sakpaltejas.666@gmail.com</a></b>
 </p>
 
 ---
