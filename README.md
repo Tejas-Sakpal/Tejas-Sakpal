@@ -1,5 +1,5 @@
 <h1 align="center">Tejas Sakpal</h1>
-<p align="center"><b>Data Engineer at Accenture</b> · Pune, India</p>
+<p align="center"><b>Data Engineer at Accenture</b> · Pune, India.</p>
 <p align="center">I design, build and tune data pipelines that turn raw data into trusted, analytics-ready tables,<br>from ingestion and modeling to data quality and Spark performance.</p>
 
 <p align="center">
